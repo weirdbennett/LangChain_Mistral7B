@@ -1,6 +1,6 @@
-# LangChain_Mistral7B
+# LangChain + Mistral 7B 2025
 Local data based Mistral 7B model
-
+![Example](images/Screen.png)
 ## Hardware Requirements for Mistral 7B
 
 ### Category: CPU
